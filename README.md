@@ -1,10 +1,20 @@
 ## <a name="About"></a>About the project
 this repo is due to an pratice in html/css/js
 
+
+# Páginas
+
+## Primeira Rota
+![tela1](https://github.com/thaisdo/probable-train/blob/main/images/tela%201.png)
+
+## Segunda Rota
+![tela1](https://github.com/thaisdo/probable-train/blob/main/images/tela2.png)
+
+## Página Atualizada
+![tela1](https://github.com/thaisdo/probable-train/blob/main/images/tela3.png)
+
+
 ## <a name="Author"></a>Author :construction_worker:
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
     <tr>
         <td align="center">
