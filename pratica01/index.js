@@ -41,7 +41,7 @@ function handleSubmit(event) {
   formData.forEach(function (value, key){
     contato[key] = value;
   });
-  contatos.push(contatos);
+  contatos.push(contato);
   navegaPara("Meus Contatos");
 };
 
